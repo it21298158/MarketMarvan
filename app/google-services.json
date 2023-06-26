@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1063081725359",
+    "project_id": "marketmarven001",
+    "storage_bucket": "marketmarven001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063081725359:android:5883b40b98d7c6bfa3335a",
+        "android_client_info": {
+          "package_name": "com.example.madproject1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063081725359-5tmgf0of77bj2obpk0o77na5qbhok99s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfuqDd68ghA1JJCpoZln9TiAKmThEPR_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063081725359-5tmgf0of77bj2obpk0o77na5qbhok99s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

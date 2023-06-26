@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">MadProject1</string>
+
+    <!--    selling cost calculation form-->
+    <string name="cal_selling_cost">Calculate Selling Cost </string>
+
+    <string name="item_name">Item Name: </string>
+    <string name="item_weight">Item Weight(Kg) : </string>
+    <string name="transport_distance">Transport Distance: </string>
+    <!--    placeholders-->
+    <string name="hint_item_name">Enter Name</string>
+    <string name="hint_item_weight">Enter Weight</string>
+    <string name="hint_transport_distance">Enter Distance</string>
+    <!--    buttons-->
+    <string name="btn_calculate">Calculate</string>
+    <string name="selling_price">Selling Price: </string>
+
+    <string name="hint_selling_price">2500</string>
+
+    <!-- ***********************************************************-->
+    <!--    selling Item cost Insert-->
+    <string name="insert_selling_cost">Selling Item </string>
+
+    <string name="item_name1">Item Name: </string>
+    <string name="item_weight1">Item Weight(Kg) : </string>
+    <string name="transport_distance1">Transport Distance: </string>
+    <string name="buying_price1">Buying Price: </string>
+    <string name="selling_price1">Selling Price: </string>
+
+
+    <string name="hint_item_name1">Enter Item Name</string>
+    <string name="hint_item_weight1">Enter Item Weight</string>
+    <string name="hint_transport_distance1">Enter Distance</string>
+    <string name="hint_buying_price1">Enter Buying Price</string>
+    <string name="hint_selling_price1">Enter Selling Price</string>
+    <!--    buttons-->
+    <string name="btn_insert">Insert</string>
+    <!-- ***********************************************************-->
+    <!--    Display Cost History-->
+    <string name="item_cost_history">Item Cost History </string>
+
+    <string name="item_name2">Item Name: </string>
+    <string name="item_weight2">Item Weight(Kg) : </string>
+    <string name="transport_distance2">Transport Distance: </string>
+    <string name="buying_price2">Buying Price: </string>
+    <string name="selling_price2">Selling Price: </string>
+
+    <string name="hint_item_name2">Enter Item Name</string>
+    <string name="hint_item_weight2">Enter Item Weight</string>
+    <string name="hint_transport_distance2">Enter Distance</string>
+    <string name="hint_buying_price2">Enter Buying Price</string>
+    <string name="hint_selling_price2">Enter Selling Price</string>
+
+    <string name="btn_delete">Delete</string>
+    <string name="btn_update">Update</string>
+
+    <string name="loadingData">Loading Data...</string>
+    <string name="CalValue1">Vegetable has 11% of whole profite</string>
+    <string name="CalValue2">Fruits has 13% of whole  profite</string>
+
+
+</resources>
